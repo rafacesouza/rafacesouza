@@ -1,4 +1,3 @@
-rafacesouza / README.md
 # Olá! Meu nome é [Rafaela Costa](www.linkedin.com/in/rafaela-costa-e-souza) 👋
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, em busca de conhecimento em programação e soluções tecnológicas que facilitem a vida das pessoas. 
 ## 🚀 Tecnologias que estou aprendendo  
